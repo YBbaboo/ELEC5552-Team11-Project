@@ -1,1 +1,6 @@
+The RS232 Data Logger Module using the Type-C USB Nano 3.0 controller as the MCU.
+It's a alternative product of Arduino Nano, so it use the Arduino IDE to load these files to the controller.
 
+When Loading the file, choose these selections in the Tool Branch and:
+  Development board: Arduino Nano
+  Processor: ATmega328P(Old Bootloader)
